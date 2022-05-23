@@ -1,0 +1,12 @@
+QUIEN MIERDA ELIMINA LA CARPETA, YA ME CANSE ESTA VEZ VA A SER UN REPOSITORIO DE GITHUB.
+MARICONES
+-W
+
+DISFRUTEN DE LA CARPETA MIENTRAS PUEDAN.
+
+para usar github:
+
+usuario: CarpetaMagicaITS@gmail.com
+contra: carpetamagica2022
+
+Instalen el GitHubDesktopSetup-x64 de la carpeta de alumnos e inicien sesion
